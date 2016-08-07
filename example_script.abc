@@ -1,0 +1,1 @@
+python runserver.py -a ptc -u nghiatran_uit -p thenotebook -l "10.7726031 106.69836044" -st 5
